@@ -1,0 +1,10 @@
+<meta>
+    <info author="Moonlight Team" type="misc" name="Moonlight UI Assets" version="1.0.0" />
+
+    <file src="fonts/Montserrat-Bold.ttf" />
+    <file src="fonts/Montserrat-Regular.ttf" />
+    <file src="fonts/Montserrat-Light.ttf" />
+    <file src="fonts/OpenSans-Bold.ttf" />
+    <file src="fonts/OpenSans-Regular.ttf" />
+    
+    </meta>

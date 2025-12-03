@@ -1,0 +1,9 @@
+<meta>
+    <info author="Moonlight Team" type="script" name="Moonlight Core System" version="1.0.0" />
+    
+    <script src="server/s_spawn.lua" type="server" />
+    <script src="server/s_id_system.lua" type="server" />
+    
+    <export function="spawnCharacter" type="server" />
+
+</meta>

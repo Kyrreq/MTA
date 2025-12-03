@@ -1,0 +1,9 @@
+<meta>
+    <info author="Moonlight Team" type="script" name="Moonlight Authentication" version="1.0.0" />
+
+    <oop>off</oop>
+
+    <script src="server/s_auth.lua" type="server" />
+
+    <script src="client/c_auth.lua" type="client" />
+</meta>

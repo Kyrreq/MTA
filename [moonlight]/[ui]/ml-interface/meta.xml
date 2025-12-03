@@ -1,0 +1,10 @@
+<meta>
+    <info author="Moonlight Team" type="script" name="Moonlight Interface Core" version="1.0.0" />
+    
+    <script src="client/c_font_manager.lua" type="client" />
+    <script src="client/c_hud_core.lua" type="client" />
+    <script src="client/c_hud_render.lua" type="client" />
+    <file src="fx/ring.fx" />
+
+    <export function="getFont" type="client" />
+</meta>
